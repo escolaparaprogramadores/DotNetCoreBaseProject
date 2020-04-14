@@ -4951,11 +4951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
+      "projectUniqueName": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
       "projectName": "Demo.Infrastructure.Data",
-      "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
+      "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Data/obj/",
+      "outputPath": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Data/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4972,8 +4972,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj": {
-              "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj"
+            "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj": {
+              "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj"
             }
           }
         }

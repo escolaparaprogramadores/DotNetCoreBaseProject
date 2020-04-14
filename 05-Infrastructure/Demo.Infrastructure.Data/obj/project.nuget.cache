@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nN2qzwkTnTLsmhp/0Qxm35P/JG3NhADkTl3j80OppffynXRxmzgQBJ0SETL4SA50k/ruVnHGu+9HuTldnT4FQ==",
+  "dgSpecHash": "b5ny/ooxSH2/dsCiCViiqKguXX4E1oSvO4Jh38s59kJkpUj1rCzQ0F4J1nIiwaMgKLUTz3WqVlthBimKBFpwSw==",
   "success": true,
-  "projectFilePath": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
+  "projectFilePath": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Data/Demo.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.0.0/microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.0.0/microsoft.aspnetcore.cryptography.keyderivation.3.0.0.nupkg.sha512",

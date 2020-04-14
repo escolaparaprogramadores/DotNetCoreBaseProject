@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4nH6u9lPox69svguwKwW2fwLXhvvr2KM3g5w2xTypq9C66AmvUs8V3Zf6m24e4sy/L1XmxT+0YojDT5nnDqBQ==",
+  "dgSpecHash": "ZzVV2nsHtMYtsYnE1q/Gbg1slsgOed1I9AB8PLLmb/UXXYHp1Ac0vH2sZcuTLH+JzcCMtWe7zrA0UsBUssx06Q==",
   "success": true,
-  "projectFilePath": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj",
+  "projectFilePath": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

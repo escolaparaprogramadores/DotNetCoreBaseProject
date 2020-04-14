@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFbN5F6OjNjSCHd75TTFRG0RsgH7+96w/e5vdwJl22EEH1kDdYdhvWEBUwzGo0W7UWqOEZ3P6IST1YAJJuTx0Q==",
+  "dgSpecHash": "uH6hMCMbzS8k7Iw09rRpmx+1Xqn7XGv4XEO9fXZQ0o7rauF3KDy0Lw5z7dYlIUUcOEcS1ZnFYj2LoW/sGcZFQQ==",
   "success": true,
-  "projectFilePath": "/Users/mark/Azure_DevOps/CSharpBaseProject/03-Application/Demo.Application/Demo.Application.csproj",
+  "projectFilePath": "/Users/mark/Azure_DevOps/dotNetCore/03-Application/Demo.Application/Demo.Application.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

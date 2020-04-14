@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2zNtopxA+Pdnu5BGS4Ni9vFYULb5xs8cEsNChGwB6GQgNVgYc4eGwTgvocRVVpN25sLl9xB4gH14fBcKGJQs0A==",
+  "dgSpecHash": "6zYWOTPkCoxJekuHmmwQLe1Ukr0zdUuJTqXrRlA1/aCsNxBy68sb7QfHK7c7i7jxxuOhLJ2ATf0qxtYNJNeUJA==",
   "success": true,
-  "projectFilePath": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj",
+  "projectFilePath": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

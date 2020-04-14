@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj",
+      "projectUniqueName": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj",
       "projectName": "Demo.Domain",
-      "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj",
+      "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/obj/",
+      "outputPath": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

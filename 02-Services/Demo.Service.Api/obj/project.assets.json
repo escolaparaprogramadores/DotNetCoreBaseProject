@@ -8802,11 +8802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/Azure_DevOps/CSharpBaseProject/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
+      "projectUniqueName": "/Users/mark/Azure_DevOps/dotNetCore/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
       "projectName": "Demo.Service.Api",
-      "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
+      "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/02-Services/Demo.Service.Api/obj/",
+      "outputPath": "/Users/mark/Azure_DevOps/dotNetCore/02-Services/Demo.Service.Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -8823,14 +8823,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/mark/Azure_DevOps/CSharpBaseProject/03-Application/Demo.Application/Demo.Application.csproj": {
-              "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/03-Application/Demo.Application/Demo.Application.csproj"
+            "/Users/mark/Azure_DevOps/dotNetCore/03-Application/Demo.Application/Demo.Application.csproj": {
+              "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/03-Application/Demo.Application/Demo.Application.csproj"
             },
-            "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj": {
-              "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/04-Domain/Demo.Domain/Demo.Domain.csproj"
+            "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj": {
+              "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/Demo.Domain.csproj"
             },
-            "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj": {
-              "projectPath": "/Users/mark/Azure_DevOps/CSharpBaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj"
+            "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj": {
+              "projectPath": "/Users/mark/Azure_DevOps/dotNetCore/05-Infrastructure/Demo.Infrastructure.Ioc/Demo.Infrastructure.Ioc.csproj"
             }
           }
         }

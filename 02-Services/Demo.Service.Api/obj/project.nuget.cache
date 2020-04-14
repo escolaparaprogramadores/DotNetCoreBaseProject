@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smVWNTxexg1UqVgX1kHunDP15qx8gG04zNqczYbkC3cItM9FegWSZW/KZdLtFW4HX/TktjzqE5fIZJpWfLOdag==",
+  "dgSpecHash": "0Jr/8zen00Xjhlgvoy6mt1qzZ/o8lf5dYoxf2CQFsLdjFKPbMgzeeTGwlmi08GYTzgEkBUCXEZ0sdOxagj8GDA==",
   "success": true,
-  "projectFilePath": "/Users/mark/Azure_DevOps/CSharpBaseProject/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
+  "projectFilePath": "/Users/mark/Azure_DevOps/dotNetCore/02-Services/Demo.Service.Api/Demo.Service.Api.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
