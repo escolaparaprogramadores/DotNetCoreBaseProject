@@ -1,0 +1,12 @@
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Infrastructure.Ioc.deps.json
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Infrastructure.Ioc.dll
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Infrastructure.Ioc.pdb
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Application.dll
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Domain.dll
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Application.pdb
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/bin/Debug/netstandard2.0/Demo.Domain.pdb
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/obj/Debug/netstandard2.0/Demo.Infrastructure.Ioc.AssemblyInfoInputs.cache
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/obj/Debug/netstandard2.0/Demo.Infrastructure.Ioc.AssemblyInfo.cs
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/obj/Debug/netstandard2.0/Demo.Infrastructure.Ioc.csproj.CopyComplete
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/obj/Debug/netstandard2.0/Demo.Infrastructure.Ioc.dll
+/Users/mark/GIT/Demo/BaseProject/05-Infrastructure/Demo.Infrastructure.Ioc/obj/Debug/netstandard2.0/Demo.Infrastructure.Ioc.pdb

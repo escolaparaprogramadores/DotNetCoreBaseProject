@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/escolaparaprogramadores/CSharpBaseProject/_apis/build/status/ASP.NET%20Core-CI)](https://dev.azure.com/escolaparaprogramadores/CSharpBaseProject/_build/latest?definitionId=4)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
@@ -7,9 +9,6 @@ TODO: Guide users through getting your code up and running on their own system. 
 2.	Software dependencies
 3.	Latest releases
 4.	API references
-
-
-
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
