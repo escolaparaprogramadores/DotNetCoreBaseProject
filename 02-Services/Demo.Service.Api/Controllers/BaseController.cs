@@ -8,8 +8,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 
 namespace Demo.Service.Api.Controllers
-{
-    
+{  
     [Route("v1/api/[controller]")]
     [ApiController]
     //[Authorize]
