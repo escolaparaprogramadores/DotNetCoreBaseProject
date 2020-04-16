@@ -34,6 +34,7 @@ namespace Demo.Service.Api.Controllers
         [FromServices] SigningConfig signingConfig,
         UserDTORequest user)
         {
+            
             UserDTORequest userBase;
 
             if (!string.IsNullOrEmpty(user.Email) && !string.IsNullOrEmpty(user.Password))
