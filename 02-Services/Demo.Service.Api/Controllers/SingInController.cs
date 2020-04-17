@@ -34,7 +34,6 @@ namespace Demo.Service.Api.Controllers
         [FromServices] SigningConfig signingConfig,
         UserDTORequest user)
         {
-
             UserDTORequest userBase;
 
 
