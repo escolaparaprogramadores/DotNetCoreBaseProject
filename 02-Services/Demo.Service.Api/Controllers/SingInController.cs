@@ -36,7 +36,6 @@ namespace Demo.Service.Api.Controllers
         {
             UserDTORequest userBase;
 
-
             if (!string.IsNullOrEmpty(user.Email) && !string.IsNullOrEmpty(user.Password))
             {
                 var senhaCriptografada = string.Empty;
