@@ -27,7 +27,6 @@ namespace Demo.Service.Api.Controllers
             _userClaimsApp = userClaimsApp;
         } 
 
-         
 
         [HttpPost(), AllowAnonymous]
         public async Task<ActionResult> Post([FromServices]TokenConfiguration tokenConfiguration,
