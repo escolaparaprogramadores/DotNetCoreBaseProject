@@ -1,9 +1,0 @@
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/bin/Debug/netcoreapp3.1/Demo.Domain.deps.json
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/bin/Debug/netcoreapp3.1/Demo.Domain.dll
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/bin/Debug/netcoreapp3.1/Demo.Domain.pdb
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.csprojAssemblyReference.cache
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.csproj.CoreCompileInputs.cache
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.AssemblyInfoInputs.cache
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.AssemblyInfo.cs
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.dll
-/Users/mark/Azure_DevOps/dotNetCore/04-Domain/Demo.Domain/obj/Debug/netcoreapp3.1/Demo.Domain.pdb
