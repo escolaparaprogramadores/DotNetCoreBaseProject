@@ -42,7 +42,7 @@ namespace Demo.Service.Api.Controllers
                 user.Password = senhaCriptografada;
 
                 userBase = await _userApp.GetUserByEmail(user.Email);
-                if (userBase == null)
+                if (userBase == null || userBase.Password != user.Password)
                     return  BadRequest(new 
                     {
                         StatusCode = 400,

@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  aspnetcore:
+    build:
+      dockerfile: ./docker/aspnetcore.dockerfile
+      context: .
+    image: marknit/aspnetcore:3.1
+    container_name: aspnetcore3.1
+    ports: 
+     - "80:80"
+     - "5000:80"
+    networks: 
+     - development-network 
+
+  redis:
+    image: redis:alpine
+    ports:
+     - "16379:6379"
+    networks:
+     - development-network
+    depends_on: 
+     - aspnetcore
+
+networks: 
+  development-network:
+    driver: bridge
