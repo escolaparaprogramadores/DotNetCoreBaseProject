@@ -47,7 +47,7 @@ namespace Demo.Service.Api.Controllers
         }
 
         //[ClaimsAuthorize("User","update")]
-        [HttpPut]
+        //[HttpPut]
         public override async Task<ActionResult> Update(UserDTORequest obj)
         {
             try
