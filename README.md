@@ -8,7 +8,7 @@
 
 # Docker-compose
 - docker-compose build
-- docker-compose up -d -- build
+- docker-compose up -d --build
 - docker-compose down
 
 # AWS

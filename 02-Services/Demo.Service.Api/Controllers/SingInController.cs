@@ -12,6 +12,11 @@ using System.Threading.Tasks;
 
 namespace Demo.Service.Api.Controllers
 {
+    /// <summary>
+    /// Lista os itens da To-do list.
+    /// </summary>
+    /// <returns>Os itens da To-do list</returns>
+    /// <response code="200">Returna os itens da To-do list cadastrados</response>
     [Route("v1/api/[controller]")]
     [ApiController]
     [Authorize]
