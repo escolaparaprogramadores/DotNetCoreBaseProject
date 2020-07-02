@@ -27,13 +27,21 @@ $ docker tag marknit/aspnetcore:3.1 404124426437.dkr.ecr.us-east-2.amazonaws.com
 $ docker push 404124426437.dkr.ecr.us-east-2.amazonaws.com/aspnetcorebase:latest
 ```
 # GIT
-Cria um repositório Git.
+- Cria um repositório Git.
 ```sh
 $ git init
 ```
-Verifica o estado do repositório.
+- Verifica o estado do repositório.
 ```sh
 $ git staus
+```
+- Adiciona os arqivos na stagin área, preparando-os para serem posteriormente commitados.
+```sh
+$ git add .
+```
+- Salva as alterações e cria um check point das mudanças.
+```sh
+$ git commit -m "commit message"
 ```
 
 
