@@ -78,7 +78,8 @@ bin/
 
 # Compartilhando trabalho em outros diretórios
 - Inicializa o repositório
-### [Diferença entre “git init” e “git init --bare”](https://pt.stackoverflow.com/questions/80182/qual-%C3%A9-a-diferen%C3%A7a-entre-git-init-e-git-init-bare)
+### Referência
+- [Diferença entre “git init” e “git init --bare”](https://pt.stackoverflow.com/questions/80182/qual-%C3%A9-a-diferen%C3%A7a-entre-git-init-e-git-init-bare)
 ```sh
 $ git init --bare
 ```
