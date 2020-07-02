@@ -1,26 +1,32 @@
 [![Build status](https://dev.azure.com/escolaparaprogramadores/CSharpBaseProject/_apis/build/status/ASP.NET%20Core-CI)](https://dev.azure.com/escolaparaprogramadores/CSharpBaseProject/_build/latest?definitionId=4)
 
 # Run Dockerfile
+```sh
 $ docker build -f Dockerfile -t marknit/aspnetcore:3.1 .
-
+```
 # Create a Container
+```sh
 $ docker run -d --name aspnetcore -p:5000:80 marknit/aspnetcore:3.1
-
+```
 # Docker-compose
+```sh
 $ docker-compose build
 $ docker-compose up -d --build
 $ docker-compose down
-
+```
 # AWS
+```sh
 $ Logar na AWS: aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 404124426437.dkr.ecr.us-east-2.amazonaws.com
-
+```
 # Criar tag da imagem
+```sh
 $ docker tag marknit/aspnetcore:3.1 404124426437.dkr.ecr.us-east-2.amazonaws.com/aspnetcorebase:latest
-
+```
 # Push da Imagem para o ECR (Elastc Container Registry)
+```sh
 $ docker push 404124426437.dkr.ecr.us-east-2.amazonaws.com/aspnetcorebase:latest
-
-### GIT
+```
+# GIT
 Cria um repositório Git.
 ```sh
 $ git init
