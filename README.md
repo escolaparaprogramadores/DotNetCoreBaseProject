@@ -83,3 +83,12 @@ bin/
 ```sh
 $ git init --bare
 ```
+- Lista todos repositórios remotos.
+```sh
+$ git remote
+```
+
+- Adiciona um repositório remoto.
+```sh
+$ git remote add local C:/Users/Documents/git-e-github/servidor
+```
