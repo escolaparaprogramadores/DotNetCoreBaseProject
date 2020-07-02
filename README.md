@@ -31,9 +31,16 @@ $ docker push 404124426437.dkr.ecr.us-east-2.amazonaws.com/aspnetcorebase:latest
 ```sh
 $ git init
 ```
+
+- Adicionar informações do Desenvolvedor.
+```sh
+$ git config --local user.name "Seu nome aqui"
+$ git config --local user.email "seu@email.aqui"
+```
+
 - Verifica o estado do repositório.
 ```sh
-$ git staus
+$ git status
 ```
 - Adiciona os arqivos na stagin área, preparando-os para serem posteriormente commitados.
 ```sh
