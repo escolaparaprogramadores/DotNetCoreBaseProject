@@ -76,19 +76,33 @@ index.html
 bin/
 ```
 
-# Compartilhando trabalho em outros diretórios
+# Compartilhando trabalho em outros diretórios 
 - Inicializa o repositório
 ### Referência
 - [Diferença entre “git init” e “git init --bare”](https://pt.stackoverflow.com/questions/80182/qual-%C3%A9-a-diferen%C3%A7a-entre-git-init-e-git-init-bare)
+- O repositório servirá apenas como servidor, para que outros membros da equipe sincronizem seus trabalhos, poupamos espaço de armazenamento desta forma.
 ```sh
 $ git init --bare
 ```
+
+### Repositórios remotos
 - Lista todos repositórios remotos.
 ```sh
-$ git remote
+$ git remote -v
 ```
 
 - Adiciona um repositório remoto.
 ```sh
-$ git remote add local C:/Users/Documents/git-e-github/servidor
+$ git remote add serverRemote C:/Users/Documents/git-e-github/servidor
 ```
+
+- Clonando repositório
+```sh
+$ git clone /c/Users/ALURA/Documents/git-e-github/servidor meuProjeto
+```
+### Sincronizando os dados
+- Envia mudanças da branch que estou trabalhando para o origin.
+```sh
+$ git push origin feature/minhaBranch
+```
+
