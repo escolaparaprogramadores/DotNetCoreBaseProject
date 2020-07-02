@@ -115,4 +115,5 @@ $ git remote rename origin local
 $ git pull server develop
 ```
 
-=> FIZ MERGE
+=> FIZ MERGE1
+=> FIZ MERGE2
