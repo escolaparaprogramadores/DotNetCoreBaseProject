@@ -27,6 +27,8 @@ $ docker tag marknit/aspnetcore:3.1 404124426437.dkr.ecr.us-east-2.amazonaws.com
 $ docker push 404124426437.dkr.ecr.us-east-2.amazonaws.com/aspnetcorebase:latest
 ```
 # GIT
+### References
+[Guia de referência](https://devhints.io/git-log)
 - Cria um repositório Git.
 ```sh
 $ git init
@@ -34,10 +36,9 @@ $ git init
 
 - Adicionar informações do Desenvolvedor.
 ```sh
-$ git config --local user.name "Seu nome aqui"
-$ git config --local user.email "seu@email.aqui"
+$ git config --local ou global user.name "Seu nome aqui"
+$ git config --local ou global user.email "seu@email.aqui"
 ```
-
 - Verifica o estado do repositório.
 ```sh
 $ git status
@@ -51,6 +52,21 @@ $ git add .
 $ git commit -m "commit message"
 ```
 
+### Histórico dos commits
+- Visualisa o hitórico.
+```sh
+$ git log
+```
+
+- Visualisa o hitórico de forma simplificada.
+```sh
+$ git log --oneline
+```
+
+- Visualisa o hitórico de forma completa.
+```sh
+$ git log -p
+```
 
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
