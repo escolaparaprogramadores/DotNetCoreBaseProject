@@ -116,3 +116,4 @@ $ git pull server develop
 ```
 
 => FIZ MERGE
+=> FIZ MERGE3
