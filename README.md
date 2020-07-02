@@ -68,7 +68,7 @@ $ git log --oneline
 $ git log -p
 ```
 
-### .gitignore
+### Ignorando arquivos
  Ignorando arquivos, é necessário criar oa arquivo .gitignore, e dentro do arquivo escrever as pastas ou arquivos a que não quer que seja versionado.
 - Exemplo.
 ```sh
@@ -105,4 +105,7 @@ $ git clone /c/Users/ALURA/Documents/git-e-github/servidor meuProjeto
 ```sh
 $ git push origin feature/minhaBranch
 ```
-
+- Renomeando repositório
+```sh
+$ git remote rename origin local
+```ff
