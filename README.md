@@ -108,4 +108,9 @@ $ git push origin feature/minhaBranch
 - Renomeando repositório
 ```sh
 $ git remote rename origin local
-```ff
+```
+
+- Atualizando repositório local (Pull)
+```sh
+$ git pull server develop
+```
