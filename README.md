@@ -116,7 +116,7 @@ $ git pull server develop
 ```
 
 <<<<<<< HEAD
-=> FIZ MERGE
+
 => FIZ MERGE3
 =======
 => FIZ MERGE1
