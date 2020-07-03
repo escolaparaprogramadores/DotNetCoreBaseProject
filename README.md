@@ -100,7 +100,7 @@ $ git remote add serverRemote C:/Users/Documents/git-e-github/servidor
 ```sh
 $ git clone /c/Users/ALURA/Documents/git-e-github/servidor meuProjeto
 ```
-### Sincronizando os dados
+# Sincronizando os dados
 - Envia mudanças da branch que estou trabalhando para o origin.
 ```sh
 $ git push origin feature/minhaBranch
@@ -132,3 +132,24 @@ $ git config --global alias.graph "log --graph --abbrev-commit --decorate --form
 $ git graph
 ```
 
+# Desfazer no GIT
+
+### Com o git checkout nós desfazemos uma alteração que ainda não foi adicionada ao index ou stage, ou seja, antes do git add. Depois de adicionar com git add, para desfazer uma alteração, precisamos tirá-la deste estado, com git reset. Agora, se já realizamos o commit, o comando git revert pode nos salvar.
+
+- Desfazer modificações a serem adicionadas
+- Irá desfazer em todo o código.
+```sh
+$ git checkout -- index.html
+```
+
+- Desfazer modificações depois de serem adicionadas
+- Irá desfazer em todo o código.
+```sh
+$ git reset HEAD index.html
+```
+
+- Desfazer modificações depois de serem comitadas
+- Irá criar um novo commit desfazendo o anterior.
+```sh
+$ git revert ed85f5f
+```
