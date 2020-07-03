@@ -115,5 +115,9 @@ $ git remote rename origin local
 $ git pull server develop
 ```
 
-Fiz minha Modificação2.
-TESTE
+- Merge, unindo trabalho.
+- Usar commit message para o merge: "Merge from feature/newBranch to devlop"
+```sh
+$ git merge feature/newBranch
+```
+
