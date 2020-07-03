@@ -113,6 +113,10 @@ $ git remote rename origin local
 - Atualizando repositório local (Pull)
 ```sh
 $ git pull server develop
+<<<<<<< HEAD
 ```
 
 Fiz minha Modificação.
+=======
+```
+>>>>>>> develop
